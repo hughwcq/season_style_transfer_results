@@ -1,5 +1,5 @@
 # season_style_transfer_results
-| 场景   | 输入图片   | 四季风景视频   |
+| 场景  | 输入图片   | 四季风景视频   |
 |-------|-------|-------|
 | 图片1 | ![图1](https://github.com/hughwcq/season_style_transfer_results/blob/main/images/test_5_48847991116.jpg.jpg) | ![视频1](https://github.com/hughwcq/season_style_transfer_results/blob/main/videos/test_5_48847991116.gif) |
 | 图片2 | ![图2](https://github.com/hughwcq/season_style_transfer_results/blob/main/images/0000269.jpg) | ![视频2](https://github.com/hughwcq/season_style_transfer_results/blob/main/videos/0000269.gif) |
